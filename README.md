@@ -1,10 +1,10 @@
 # openai-dall-e
 
 **Overview:**
-This project is a DALL-E clone, an AI-powered image generation tool, built using the MERN stack (MongoDB, Express, React, Node.js) and integrating OpenAI's powerful image generation capabilities, Cloudinary for image management, and Tailwind CSS for responsive and stylish UI design.
+This project is inspired by DALL-E, an AI-powered image generation tool, built using the MERN stack (MongoDB, Express, React, Node.js) and integrating OpenAI's powerful image generation capabilities, Cloudinary for image management, and Tailwind CSS for responsive and stylish UI design.
 
 **Description:**
-The DALL-E clone is a web application that allows users to generate unique and creative images based on textual prompts.
+DALL-U is a web application that allows users to generate unique and creative images based on textual prompts.
 
 **Key Features:**
 1. Text-to-Image Generation: Users can input textual descriptions, and the application will generate corresponding images using OpenAI's image generation capabilities.
